@@ -4,6 +4,29 @@
 
 ## Welcome! 👋
 
-This is my solution for challenge, full responsive web for any devices. This is a first time when I use preprocessors - Sass. Im confused because Im not sure how I should public this web - without compile scss to the css or just like now? And if I shoudnt add compiled css from scss how I can do it in real time on the hosting page? I will be grateful for answear.
+This is my solution for challenge, full responsive web for any devices. This is a first time when I use preprocessors - Sass and I really like it! Im aware of mistakes in called stuff wit BEM but I realized too late and I was to lazy to change it xD But in my future project I will be more carefull.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+[Challenge from Frontend Mentor](https://www.frontendmentor.io)
+
+[Check out live web](https://main--amazing-souffle-dec1a0.netlify.app)
+
+---
+
+## My design
+
+- Desktops
+
+  ![My desktop design](/layout-scr/layout-desktop.png)
+  ![My desktop design](/layout-scr/layout-desktop-2.png)
+
+- Smartphones
+
+  ![My mobile design](/layout-scr/layout-mobile-2.png)
+
+  Little issue with underline idk why
+
+- Smartphones landscape mode
+
+  ![My mobile design](/layout-scr/layout-mobile.png)
+
+---
